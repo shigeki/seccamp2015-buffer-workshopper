@@ -4,6 +4,9 @@
   "description": "Security Camp 2015 Buffer Workshop",
   "main": "index.js",
   "preferGlobal": true,
+  "bin": {
+    "seccamp2015-buffer-workshopper": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
