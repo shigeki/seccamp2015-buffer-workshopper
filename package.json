@@ -1,0 +1,27 @@
+{
+  "name": "seccamp2015-buffer-workshopper",
+  "version": "0.0.1",
+  "description": "Security Camp 2015 Buffer Workshop",
+  "main": "index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shigeki/seccamp2015-buffer-workshopper"
+  },
+  "keywords": [
+    "seccamp2015"
+  ],
+  "author": "Shigeki Ohtsu <ohtsu@iij.ad.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigeki/seccamp2015-buffer-workshopper/issues"
+  },
+  "homepage": "https://github.com/shigeki/seccamp2015-buffer-workshopper",
+  "dependencies": {
+    "workshopper": "^2.7.0",
+    "workshopper-exercise": "^2.4.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Security Camp 2015 Buffer Workshopper",
+    "subtitle": "Learn Basic Buffer",
+    "exercise": {
+	"CREATE BUFFER": "Create Buffer Object",
+	"WRITE AND READ BUFFER": "Write and Read Buffer Object",
+	"COPY BUFFER": "Copy Buffer Object",
+	"SLICE BUFFER": "Slice Buffer Object",
+	"CONCAT BUFFER": "Concat Buffer Object",
+	"PARSE BINARY DATA": "Parse Binary Data with Buffer"
+    }
+}

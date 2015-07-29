@@ -1,0 +1,12 @@
+{
+    "title": "Security Camp 2015 Buffer Workshopper",
+    "subtitle": "基本的なBufferの使い方を学ぶ",
+    "exercise": {
+	"CREATE BUFFER": "Bufferオブジェクトの生成",
+	"WRITE AND READ BUFFER": "Bufferオブジェクトの読み書き",
+	"COPY BUFFER": "Bufferオブジェクトのコピー",
+	"SLICE BUFFER": "Bufferオブジェクトの切り取り",
+	"CONCAT BUFFER": "Bufferオブジェクトの結合",
+	"PARSE BINARY DATA": "Bufferを使ってバイナリデータの解析"
+    }
+}
